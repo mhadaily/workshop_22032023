@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "221409888548",
+    "project_id": "workshop-2023-apprise",
+    "storage_bucket": "workshop-2023-apprise.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221409888548:android:12cd297a0ffdaed2590bb1",
+        "android_client_info": {
+          "package_name": "com.appriseconf.workshop23.workshop_22032023"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221409888548-d9k895ktlhqdmcj4cunea395s4q4eqdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG3znRNd5-0Vljad3VMjSScVD3JM4IHhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221409888548-d9k895ktlhqdmcj4cunea395s4q4eqdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
